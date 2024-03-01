@@ -1,1 +1,1 @@
-Program ini menggunakan konsep/prinsip polimorfisme pada OOP dengan java.
+Program ini menggunakan konsep/prinsip polimorfisme pada mata kuliah OOP dengan java.
